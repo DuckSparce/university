@@ -1,0 +1,7 @@
+6
+Shevchenko Taras Hryhorovych, 87, 3
+Petrenko Petro Petrovych, 32, 1
+Konoplya Lesia Ivanivna, 27, 5
+Skybka Vasyl Volodymyrovych, 99, 4
+Oros Mykhaylo Andriyovych, 22, 3
+Ruban Andrii Oleksandrovych, 17, 2

@@ -1,0 +1,6 @@
+﻿  test.cpp
+C:\Users\USER\source\repos\Tests\just test\just test\test.cpp(12,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\USER\source\repos\Tests\just test\just test\test.cpp(15,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\USER\source\repos\Tests\just test\just test\test.cpp(15,9): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\USER\source\repos\Tests\just test\just test\test.cpp(15,9): message : the missing variadic argument 1 is required by format string '%d'
+  just test.vcxproj -> C:\Users\USER\source\repos\Tests\just test\x64\Debug\just test.exe

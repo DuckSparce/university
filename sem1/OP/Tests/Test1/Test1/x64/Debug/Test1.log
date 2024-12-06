@@ -1,0 +1,4 @@
+﻿  test3.c
+C:\Users\USER\source\repos\Tests\Test1\Test1\test3.c(12,2): warning C4013: 'test' undefined; assuming extern returning int
+C:\Users\USER\source\repos\Tests\Test1\Test1\test3.c(50): warning C4716: 'sort': must return a value
+  Test1.vcxproj -> C:\Users\USER\source\repos\Tests\Test1\x64\Debug\Test1.exe

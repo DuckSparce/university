@@ -1,0 +1,4 @@
+﻿  Main.c
+C:\Users\USER\source\repos\Labs_1sem\Lab3\Lab3\Main.c(11,2): warning C4013: 'task1' undefined; assuming extern returning int
+C:\Users\USER\source\repos\Labs_1sem\Lab3\Lab3\Main.c(14,2): warning C4013: 'task2' undefined; assuming extern returning int
+  Lab3.vcxproj -> C:\Users\USER\source\repos\Labs_1sem\Lab3\x64\Debug\Lab3.exe

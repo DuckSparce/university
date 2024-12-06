@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/USER/source/repos/Labs_OP_1sem/build",
+  "command": "C:/Users/USER/Compilers/gcc-v13.2.0-mingw-v11.0.0-i686/gcc-v13.2.0-mingw-v11.0.0-i686/bin/gcc.exe   -g -o CMakeFiles/Task1_2.dir/main.c.obj -c C:/Users/USER/source/repos/Labs_OP_1sem/main.c",
+  "file": "C:/Users/USER/source/repos/Labs_OP_1sem/main.c",
+  "output": "CMakeFiles/Task1_2.dir/main.c.obj"
+}
+]

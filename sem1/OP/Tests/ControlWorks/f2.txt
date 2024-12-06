@@ -1,0 +1,2 @@
+Array = { wolf fox hare bear cow chicken ox crow hippo rhino }
+Number of words: 10

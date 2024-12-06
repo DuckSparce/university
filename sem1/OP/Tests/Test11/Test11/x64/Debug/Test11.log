@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\Users\USER\source\repos\Tests\Test11\Test11\Main.c(12,2): warning C4013: 'gets' undefined; assuming extern returning int
+  Test11.vcxproj -> C:\Users\USER\source\repos\Tests\Test11\x64\Debug\Test11.exe
