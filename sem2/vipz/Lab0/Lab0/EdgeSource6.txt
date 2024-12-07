@@ -1,0 +1,6 @@
+5
+Stus Vasyl 12.11.2005 1 5 1 5 1
+Franko Ivan 12.07.2005 1 1 1 1 1
+Shevchenko Taras 23.10.2006 2 2 2 2 2
+Skovoroda Hryhoriy 30.08.2006 1 5 5 5 5
+Kostenko Lina 07.03.2005 5 5 5 5 5

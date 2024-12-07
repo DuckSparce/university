@@ -1,0 +1,6 @@
+5
+Kachur Artem 11.08.2005 1 2 3 4 5
+Kachur Kyryl 30.03.2006 2 3 4 1 1
+Horoshko Artem 11.08.2005 1 2 3 4 5
+Yedynak Artem 10.08.2005 3 3 3 4 3
+Volkovnitskiy Kyryl 01.09.2005 2 3 4 1 1

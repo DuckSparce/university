@@ -1,0 +1,13 @@
+12
+Stus Vasyl 12.11.2005 1 4 3 1 1
+Franko Ivan 12.07.2005 4 2 1 5 4
+Shevchenko Taras 23.10.2006 5 3 5 5 5
+Skovoroda Hryhoriy 30.08.2006 1 1 4 1 1
+Kostenko Lina 07.03.2005 4 1 5 4 2
+Tychyna Pavlo 01.06.2006 4 1 3 1 2
+Zhadan Serhii 12.12.2005 2 3 3 3 1
+Symonenko Vasyl 09.06.2006 4 4 5 5 5
+Sosiura Volodymyr 30.08.2005 4 5 5 2 1
+Kobylianska Olha 12.02.2005 5 5 4 4 5
+Ukrainka Lesia 03.08.2006 5 5 5 5 5
+Pchilka Olena 05.02.2005 1 4 4 3 5

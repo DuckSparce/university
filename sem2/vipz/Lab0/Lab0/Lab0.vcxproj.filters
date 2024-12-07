@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Normal Test">
+      <UniqueIdentifier>{3e8b2f92-5e9c-45d9-9489-c00770c49599}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Edge Test">
+      <UniqueIdentifier>{cb925022-f3f2-42c8-b827-f1bf3d38d3cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Exception Test">
+      <UniqueIdentifier>{87565e15-0c82-4678-8d02-4f784ba9d3b5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="creating_functions.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="deleting_functions.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="getting_functions.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="editing_functions.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="io_functions.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Destination.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="NormalSource1.txt">
+      <Filter>Source Files\Normal Test</Filter>
+    </Text>
+    <Text Include="NormalSource2.txt">
+      <Filter>Source Files\Normal Test</Filter>
+    </Text>
+    <Text Include="NormalSource3.txt">
+      <Filter>Source Files\Normal Test</Filter>
+    </Text>
+    <Text Include="NormalSource4.txt">
+      <Filter>Source Files\Normal Test</Filter>
+    </Text>
+    <Text Include="SmokeSource1.txt">
+      <Filter>Source Files\Normal Test</Filter>
+    </Text>
+    <Text Include="EdgeSource7.txt">
+      <Filter>Source Files\Edge Test</Filter>
+    </Text>
+    <Text Include="EdgeSource6.txt">
+      <Filter>Source Files\Edge Test</Filter>
+    </Text>
+    <Text Include="EdgeSource1.txt">
+      <Filter>Source Files\Edge Test</Filter>
+    </Text>
+    <Text Include="EdgeSource2.txt">
+      <Filter>Source Files\Edge Test</Filter>
+    </Text>
+    <Text Include="EdgeSource3.txt">
+      <Filter>Source Files\Edge Test</Filter>
+    </Text>
+    <Text Include="EdgeSource4.txt">
+      <Filter>Source Files\Edge Test</Filter>
+    </Text>
+    <Text Include="EdgeSource5.txt">
+      <Filter>Source Files\Edge Test</Filter>
+    </Text>
+    <Text Include="ExceptionSource1.tt">
+      <Filter>Source Files\Exception Test</Filter>
+    </Text>
+    <Text Include="ExceptionSource2.txt">
+      <Filter>Source Files\Exception Test</Filter>
+    </Text>
+    <Text Include="ExceptionSource3.txt">
+      <Filter>Source Files\Exception Test</Filter>
+    </Text>
+    <Text Include="ExceptionSource4.txt">
+      <Filter>Source Files\Exception Test</Filter>
+    </Text>
+    <Text Include="ExceptionSource5.txt">
+      <Filter>Source Files\Exception Test</Filter>
+    </Text>
+    <Text Include="ExceptionSource6.txt">
+      <Filter>Source Files\Exception Test</Filter>
+    </Text>
+    <Text Include="ExceptionSource7.txt">
+      <Filter>Source Files\Exception Test</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="structures.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="editing_functions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="deleting_functions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="creating_functions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="io_functions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="getting_functions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
