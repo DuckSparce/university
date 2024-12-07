@@ -1,0 +1,8 @@
+﻿  task1.c
+C:\Users\USER\source\repos\Labs_KDM_1sem\Lab1\Lab1\task1.c(7,2): warning C4013: 'task2' undefined; assuming extern returning int
+C:\Users\USER\source\repos\Labs_KDM_1sem\Lab1\Lab1\task1.c(212,2): warning C4013: 'printSet' undefined; assuming extern returning int
+C:\Users\USER\source\repos\Labs_KDM_1sem\Lab1\Lab1\task1.c(247,2): warning C4013: 'generatePowerSet' undefined; assuming extern returning int
+C:\Users\USER\source\repos\Labs_KDM_1sem\Lab1\Lab1\task1.c(274,3): warning C4013: 'printSubset' undefined; assuming extern returning int
+C:\Users\USER\source\repos\Labs_KDM_1sem\Lab1\Lab1\task1.c(269,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\USER\source\repos\Labs_KDM_1sem\Lab1\Lab1\task1.c(328): warning C4715: 'task6': not all control paths return a value
+  Lab1.vcxproj -> C:\Users\USER\source\repos\Labs_KDM_1sem\Lab1\x64\Debug\Lab1.exe

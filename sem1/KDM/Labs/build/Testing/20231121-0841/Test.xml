@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-make"
+	BuildStamp="20231121-0841-Experimental"
+	Name="ASUS-ARTEM-KACHUR"
+	Generator="ctest-3.28.0-rc3"
+	CompilerName="C:/Users/USER/Compilers/gcc-v13.2.0-mingw-v11.0.0-i686/gcc-v13.2.0-mingw-v11.0.0-i686/bin/g++.exe"
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="ASUS-ARTEM-KACHUR"
+	OSRelease=" Professional"
+	OSVersion=" (Build 22621)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="10"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="12"
+	TotalVirtualMemory="19332"
+	TotalPhysicalMemory="16004"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3110"
+	>
+	<Testing>
+		<StartDateTime>Nov 21 10:41 FLE Standard Time</StartDateTime>
+		<StartTestTime>1700556092</StartTestTime>
+		<TestList/>
+		<EndDateTime>Nov 21 10:41 FLE Standard Time</EndDateTime>
+		<EndTestTime>1700556092</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
