@@ -1,0 +1,4 @@
+C:\Users\USER\source\repos\university\sem2\oop\ControlWork\x64\Debug\ControlWork.vcxproj.CopyComplete
+C:\Users\USER\source\repos\university\sem2\oop\ControlWork\x64\Debug\ControlWork.exe
+C:\Users\USER\source\repos\university\sem2\oop\ControlWork\x64\Debug\gtest.pdb
+C:\Users\USER\source\repos\university\sem2\oop\ControlWork\x64\Debug\gtest_main.pdb

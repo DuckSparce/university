@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5dac087a5b8e6357cd7c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "oop_lab6_window",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "oop_lab6_window::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oop_lab6_window-Debug-ca438d7564ca273fee4b.json",
+					"name" : "oop_lab6_window",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "oop_lab6_window_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oop_lab6_window_autogen-Debug-297bd0ee429dcd0646f3.json",
+					"name" : "oop_lab6_window_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "oop_lab6_window_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oop_lab6_window_autogen_timestamp_deps-Debug-6d54c6e5f039bfc94d7e.json",
+					"name" : "oop_lab6_window_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/USER/source/repos/university/sem2/oop/oop_lab6_window/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/USER/source/repos/university/sem2/oop/oop_lab6_window"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

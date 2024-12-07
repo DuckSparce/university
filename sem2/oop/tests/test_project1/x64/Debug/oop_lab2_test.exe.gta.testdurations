@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\USER\source\repos\university\sem2\OOP\tests\test_project1\x64\Debug\oop_lab2_test.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="ShiftRight.TestCornerCases" Duration="1" />
+    <TestDuration Test="ShiftRight.TestRandom" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

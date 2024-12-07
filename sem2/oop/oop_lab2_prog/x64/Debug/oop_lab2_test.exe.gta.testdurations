@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\USER\source\repos\university\sem2\OOP\oop_lab2_prog\x64\Debug\oop_lab2_test.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="OperationTimeCalculation.TestValidInput" Duration="1" />
+    <TestDuration Test="OperationTimeCalculation.TestInvalidInput" Duration="1" />
+    <TestDuration Test="OperationTimeCalculation.TestInfinityInput" Duration="1" />
+    <TestDuration Test="OperationTimeCalculation.TestNANInput" Duration="1" />
+    <TestDuration Test="OperationTimeCalculation.MaxMinInputTest" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

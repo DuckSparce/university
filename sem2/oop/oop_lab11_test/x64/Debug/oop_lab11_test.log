@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\USER\source\repos\university\sem2\oop\oop_lab11_prog\ctable.h(122,1): warning C4172: returning address of local variable or temporary
+  oop_lab11_test.vcxproj -> C:\Users\USER\source\repos\university\sem2\oop\oop_lab11_prog\x64\Debug\oop_lab11_test.exe

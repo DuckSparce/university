@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "oop_lab11_prog\\x64\\Debug\\ctable.h.obj",
+            "outputs": [
+                "C:\\Users\\USER\\source\\repos\\university\\sem2\\oop\\oop_lab11_prog\\x64\\Debug\\oop_lab11_prog.pdb",
+                "oop_lab11_prog\\x64\\Debug\\",
+                "C:\\Users\\USER\\source\\repos\\university\\sem2\\oop\\oop_lab11_prog\\oop_lab11_prog\\x64\\Debug\\ctable.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "ctable.h",
+                    "source-path": "c:\\users\\user\\source\\repos\\university\\sem2\\oop\\oop_lab11_prog\\ctable.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

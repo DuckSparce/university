@@ -1,0 +1,17 @@
+﻿  CTable_uptr.cpp
+CTable.obj : warning LNK4006: "public: __cdecl CTable::CTable(void)" (??0CTable@@QEAA@XZ) already defined in CTable_uptr.obj; second definition ignored
+CTable.obj : warning LNK4006: "public: __cdecl CTable::CTable(class CTable const &)" (??0CTable@@QEAA@AEBV0@@Z) already defined in CTable_uptr.obj; second definition ignored
+CTable.obj : warning LNK4006: "public: __cdecl CTable::CTable(class CTable &&)" (??0CTable@@QEAA@$$QEAV0@@Z) already defined in CTable_uptr.obj; second definition ignored
+CTable.obj : warning LNK4006: "public: __cdecl CTable::~CTable(void)" (??1CTable@@QEAA@XZ) already defined in CTable_uptr.obj; second definition ignored
+CTable.obj : warning LNK4006: "public: class CTable & __cdecl CTable::operator=(class CTable const &)" (??4CTable@@QEAAAEAV0@AEBV0@@Z) already defined in CTable_uptr.obj; second definition ignored
+CTable.obj : warning LNK4006: "public: class CTable & __cdecl CTable::operator=(class CTable &&)" (??4CTable@@QEAAAEAV0@$$QEAV0@@Z) already defined in CTable_uptr.obj; second definition ignored
+CTable.obj : warning LNK4006: "public: class CTable __cdecl CTable::operator+(class CTable const &)const " (??HCTable@@QEBA?AV0@AEBV0@@Z) already defined in CTable_uptr.obj; second definition ignored
+CTable.obj : warning LNK4006: "public: bool __cdecl CTable::add_column(char const *)" (?add_column@CTable@@QEAA_NPEBD@Z) already defined in CTable_uptr.obj; second definition ignored
+CTable.obj : warning LNK4006: "public: bool __cdecl CTable::add_row(int const *,unsigned int)" (?add_row@CTable@@QEAA_NPEBHI@Z) already defined in CTable_uptr.obj; second definition ignored
+CTable.obj : warning LNK4006: "public: unsigned int __cdecl CTable::get_columns_number(void)const " (?get_columns_number@CTable@@QEBAIXZ) already defined in CTable_uptr.obj; second definition ignored
+CTable.obj : warning LNK4006: "public: unsigned int __cdecl CTable::get_rows_number(void)const " (?get_rows_number@CTable@@QEBAIXZ) already defined in CTable_uptr.obj; second definition ignored
+CTable.obj : warning LNK4006: "public: char * __cdecl CTable::get_column_name(unsigned int)const " (?get_column_name@CTable@@QEBAPEADI@Z) already defined in CTable_uptr.obj; second definition ignored
+CTable.obj : warning LNK4006: "public: int __cdecl CTable::get_value(unsigned int,unsigned int)const " (?get_value@CTable@@QEBAHII@Z) already defined in CTable_uptr.obj; second definition ignored
+CTable.obj : warning LNK4006: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class CTable const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBVCTable@@@Z) already defined in CTable_uptr.obj; second definition ignored
+CTable.obj : warning LNK4006: "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl operator>>(class std::basic_istream<char,struct std::char_traits<char> > &,class CTable &)" (??5@YAAEAV?$basic_istream@DU?$char_traits@D@std@@@std@@AEAV01@AEAVCTable@@@Z) already defined in CTable_uptr.obj; second definition ignored
+  oop_lab5_prog.vcxproj -> C:\Users\USER\source\repos\university\sem2\oop\oop_lab5_prog\x64\Debug\oop_lab5_prog.lib

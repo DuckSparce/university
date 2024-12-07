@@ -1,0 +1,1 @@
+C:\Users\USER\source\repos\university\sem2\OOP\tests\oop_lab2_test\x64\Debug\oop_lab2_test.vcxproj.CopyComplete
