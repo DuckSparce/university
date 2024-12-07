@@ -1,0 +1,14 @@
+------------------------------
+1 processes:
+Launched program has finished. Time: 1192.125043 ms
+------------------------------
+2 processes:
+Launched program has finished. Time: 673.256551 ms
+------------------------------
+3 processes:
+Launched program has finished. Time: 388.064607 ms
+------------------------------
+4 processes:
+Launched program has finished. Time: 448.816202 ms
+
+Max speedup: 3.071976 is reached using 3 processes
