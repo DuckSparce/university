@@ -1,0 +1,32 @@
+------------------------------
+1 processes:
+Launched program has finished. Time: 64.259300
+------------------------------
+2 processes:
+Launched program has finished. Time: 83.748500
+------------------------------
+3 processes:
+Launched program has finished. Time: 18.743000
+------------------------------
+4 processes:
+Launched program has finished. Time: 17.646300
+------------------------------
+5 processes:
+Launched program has finished. Time: 18.979200
+------------------------------
+6 processes:
+Launched program has finished. Time: 18.958100
+------------------------------
+7 processes:
+Launched program has finished. Time: 17.381400
+------------------------------
+8 processes:
+Launched program has finished. Time: 18.530900
+------------------------------
+9 processes:
+Launched program has finished. Time: 17.032000
+------------------------------
+10 processes:
+Launched program has finished. Time: 17.886600
+
+Max speedup: 3.772857 is reached using 9 processes.

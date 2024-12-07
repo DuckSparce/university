@@ -1,0 +1,23 @@
+# ninja log v5
+30	230	7515454608813667	lab7_autogen/timestamp	68903b3823006762
+30	230	7515454608813667	lab7_autogen/mocs_compilation.cpp	68903b3823006762
+30	230	7515454608813667	C:/Users/USER/source/repos/university/sem3/asd/lab7/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/lab7_autogen/timestamp	68903b3823006762
+999	3173	7515448563445100	CMakeFiles/lab7.dir/lab7_autogen/mocs_compilation.cpp.obj	cfe6706580d23dcb
+1006	3289	7515448564563264	CMakeFiles/lab7.dir/main.cpp.obj	6c28f289d40b702
+30	230	7515454608813667	C:/Users/USER/source/repos/university/sem3/asd/lab7/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/lab7_autogen/mocs_compilation.cpp	68903b3823006762
+247	3357	7515454643475116	CMakeFiles/lab7.dir/mainwindow.cpp.obj	8faebc1644dd6d4f
+3358	3639	7515454646293497	lab7.exe	29d1f1731f9650ee
+252	384	7515454613828590	CMakeFiles/lab7.dir/queue.cpp.obj	67fccfb6f53f830f
+49	249	7515454672354215	lab7_autogen/timestamp	68903b3823006762
+49	249	7515454672354215	lab7_autogen/mocs_compilation.cpp	68903b3823006762
+49	249	7515454672354215	C:/Users/USER/source/repos/university/sem3/asd/lab7/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/lab7_autogen/timestamp	68903b3823006762
+49	249	7515454672354215	C:/Users/USER/source/repos/university/sem3/asd/lab7/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/lab7_autogen/mocs_compilation.cpp	68903b3823006762
+271	404	7515454684291399	CMakeFiles/lab7.dir/queue.cpp.obj	67fccfb6f53f830f
+266	3391	7515454714092900	CMakeFiles/lab7.dir/mainwindow.cpp.obj	8faebc1644dd6d4f
+3391	3653	7515454716563962	lab7.exe	29d1f1731f9650ee
+51	249	7515456754380568	lab7_autogen/timestamp	68903b3823006762
+51	249	7515456754380568	lab7_autogen/mocs_compilation.cpp	68903b3823006762
+51	249	7515456754380568	C:/Users/USER/source/repos/university/sem3/asd/lab7/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/lab7_autogen/timestamp	68903b3823006762
+51	249	7515456754380568	C:/Users/USER/source/repos/university/sem3/asd/lab7/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/lab7_autogen/mocs_compilation.cpp	68903b3823006762
+263	2715	7515456782548863	CMakeFiles/lab7.dir/mainwindow.cpp.obj	8faebc1644dd6d4f
+2715	2952	7515456784860606	lab7.exe	29d1f1731f9650ee

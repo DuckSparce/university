@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\USER\source\repos\university\sem3\os\lab8\main.cpp(112,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\USER\source\repos\university\sem3\os\lab8\main.cpp(122,22): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  lab8.vcxproj -> C:\Users\USER\source\repos\university\sem3\os\lab8\x64\Debug\lab8.exe

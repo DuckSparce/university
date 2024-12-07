@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\university\\sem3\\akkm\\lab3\\lab3_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB0B6D3-6DD2-4189-AF47-833689A297CE}|lab3_test.vcxproj|C:\\Users\\USER\\source\\repos\\university\\sem3\\akkm\\lab3\\lab3_test\\source.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4DB0B6D3-6DD2-4189-AF47-833689A297CE}|lab3_test.vcxproj|solutionrelative:source.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.asm",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\university\\sem3\\akkm\\lab3\\lab3_test\\source.asm",
+              "RelativeDocumentMoniker": "source.asm",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\university\\sem3\\akkm\\lab3\\lab3_test\\source.asm",
+              "RelativeToolTip": "source.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T21:39:23.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

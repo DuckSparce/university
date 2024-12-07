@@ -1,0 +1,19 @@
+# ninja log v5
+16	300	7486032367896675	lab2_autogen/timestamp	418a678a06f4969d
+314	6280	7486032431571983	CMakeFiles/lab2.dir/mainwindow.cpp.obj	807f6f1db09485b1
+6280	7176	7486032440507614	lab2.exe	b901792123a0f1f9
+16	300	7486032367896675	lab2_autogen/mocs_compilation.cpp	418a678a06f4969d
+16	300	7486032367896675	C:/Users/USER/source/repos/university/sem3/asd/lab1/lab1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/lab2_autogen/timestamp	418a678a06f4969d
+16	300	7486032367896675	C:/Users/USER/source/repos/university/sem3/asd/lab1/lab1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/lab2_autogen/mocs_compilation.cpp	418a678a06f4969d
+579	2128	7485578902477209	CMakeFiles/lab2.dir/lab2_autogen/mocs_compilation.cpp.obj	aebb1473f12e1bbe
+40	61	0	CMakeFiles/clean.additional	baedbe210acaa455
+582	2138	7485578902562630	CMakeFiles/lab2.dir/main.cpp.obj	984194d3887edd2f
+320	6251	7486032431330992	CMakeFiles/lab2.dir/algorithms.cpp.obj	260f92ac1591df19
+61	69	0	clean	96b9a3bd5f0cea5
+25	253	7486114616373229	lab2_autogen/timestamp	418a678a06f4969d
+25	253	7486114616373229	lab2_autogen/mocs_compilation.cpp	418a678a06f4969d
+25	253	7486114616373229	C:/Users/USER/source/repos/university/sem3/asd/lab1/lab1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/lab2_autogen/timestamp	418a678a06f4969d
+25	253	7486114616373229	C:/Users/USER/source/repos/university/sem3/asd/lab1/lab1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/lab2_autogen/mocs_compilation.cpp	418a678a06f4969d
+274	2115	7486114638488297	CMakeFiles/lab2.dir/algorithms.cpp.obj	260f92ac1591df19
+269	2185	7486114639209420	CMakeFiles/lab2.dir/mainwindow.cpp.obj	807f6f1db09485b1
+2185	2416	7486114641451358	lab2.exe	b901792123a0f1f9

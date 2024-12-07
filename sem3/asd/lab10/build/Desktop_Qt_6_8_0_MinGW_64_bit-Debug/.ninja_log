@@ -1,0 +1,21 @@
+# ninja log v5
+53	225	7545697033621205	lab10_autogen/timestamp	c7706a7e85557762
+53	225	7545697033621205	lab10_autogen/mocs_compilation.cpp	c7706a7e85557762
+53	225	7545697033621205	C:/Users/USER/source/repos/university/sem3/asd/lab10/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/lab10_autogen/timestamp	c7706a7e85557762
+764	2463	7533653516967991	CMakeFiles/lab10.dir/lab10_autogen/mocs_compilation.cpp.obj	58f6391a1968c717
+53	225	7545697033621205	C:/Users/USER/source/repos/university/sem3/asd/lab10/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/lab10_autogen/mocs_compilation.cpp	c7706a7e85557762
+1861	2029	7545697064756322	lab10.exe	692307f547a83fa8
+769	2465	7533653516991431	CMakeFiles/lab10.dir/main.cpp.obj	23a4194564375817
+235	1861	7545697063110672	CMakeFiles/lab10.dir/mainwindow.cpp.obj	bcd37aa7e185ef85
+57	213	7545700583506071	lab10_autogen/timestamp	c7706a7e85557762
+57	213	7545700583506071	lab10_autogen/mocs_compilation.cpp	c7706a7e85557762
+57	213	7545700583506071	C:/Users/USER/source/repos/university/sem3/asd/lab10/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/lab10_autogen/timestamp	c7706a7e85557762
+57	213	7545700583506071	C:/Users/USER/source/repos/university/sem3/asd/lab10/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/lab10_autogen/mocs_compilation.cpp	c7706a7e85557762
+223	1849	7545700612774444	CMakeFiles/lab10.dir/mainwindow.cpp.obj	bcd37aa7e185ef85
+1849	2013	7545700614355979	lab10.exe	692307f547a83fa8
+86	410	7545700937975246	lab10_autogen/timestamp	c7706a7e85557762
+86	410	7545700937975246	lab10_autogen/mocs_compilation.cpp	c7706a7e85557762
+86	410	7545700937975246	C:/Users/USER/source/repos/university/sem3/asd/lab10/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/lab10_autogen/timestamp	c7706a7e85557762
+86	410	7545700937975246	C:/Users/USER/source/repos/university/sem3/asd/lab10/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/lab10_autogen/mocs_compilation.cpp	c7706a7e85557762
+427	4655	7545732663631492	CMakeFiles/lab10.dir/mainwindow.cpp.obj	bcd37aa7e185ef85
+4655	5556	7545732672665845	lab10.exe	692307f547a83fa8

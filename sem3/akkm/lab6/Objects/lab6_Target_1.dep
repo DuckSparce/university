@@ -1,0 +1,4 @@
+Dependencies for Project 'lab6', Target 'Target_1': (DO NOT MODIFY !)
+CompilerVersion: 6220000::V6.22::ARMCLANG
+F (.\LR_6.s)(0x673B38DA)(--target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-IC:/Users/USER/AppData/Local/Arm/Packs/Keil/V2M-MPS2_CMx_BSP/1.8.2/Device/CMSDK_CM4/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 541" -Wa,armasm,--pd,"CMSDK_CM4_FP SETA 1"-o ./objects/lr_6.o)
+F (.\StartUp_1.s)(0x673B3551)(--target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-IC:/Users/USER/AppData/Local/Arm/Packs/Keil/V2M-MPS2_CMx_BSP/1.8.2/Device/CMSDK_CM4/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 541" -Wa,armasm,--pd,"CMSDK_CM4_FP SETA 1"-o ./objects/startup_1.o)

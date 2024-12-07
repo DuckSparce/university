@@ -1,0 +1,11 @@
+# ninja log v5
+321	3961	7515395090734236	CMakeFiles/lab3_2.dir/affinitydialog.cpp.obj	283eed673c6c80aa
+51	296	7515395050112557	lab3_2_autogen/timestamp	60dc8b4305afc4a9
+1756	6831	7515394891010902	CMakeFiles/lab3_2.dir/lab3_2_autogen/mocs_compilation.cpp.obj	5103b984bb566b5
+51	296	7515395050112557	lab3_2_autogen/mocs_compilation.cpp	60dc8b4305afc4a9
+51	296	7515395050112557	C:/Users/USER/source/repos/university/sem3/os/lab3_2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/lab3_2_autogen/timestamp	60dc8b4305afc4a9
+51	296	7515395050112557	C:/Users/USER/source/repos/university/sem3/os/lab3_2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/lab3_2_autogen/mocs_compilation.cpp	60dc8b4305afc4a9
+1761	6519	7515394887908190	CMakeFiles/lab3_2.dir/main.cpp.obj	2885a8d62c4e4aef
+316	4484	7515395095966735	CMakeFiles/lab3_2.dir/mainwindow.cpp.obj	cf28c9c8a6bba2ed
+4484	5321	7515395104264190	lab3_2.exe	a693cab31f17e5d4
+1770	5441	7515394877108009	CMakeFiles/lab3_2.dir/process.cpp.obj	498742433d0afacb

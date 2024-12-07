@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1000</width>
+    <height>800</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>1000</width>
+    <height>800</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>1000</width>
+    <height>800</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTableWidget" name="tableWidget">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>250</y>
+      <width>921</width>
+      <height>511</height>
+     </rect>
+    </property>
+    <property name="editTriggers">
+     <set>QAbstractItemView::EditTrigger::NoEditTriggers</set>
+    </property>
+    <property name="columnCount">
+     <number>7</number>
+    </property>
+    <attribute name="horizontalHeaderDefaultSectionSize">
+     <number>130</number>
+    </attribute>
+    <column>
+     <property name="text">
+      <string>PID</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Name</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>State</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Priority</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>CPU time</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Working Set</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Peak Working Set</string>
+     </property>
+    </column>
+   </widget>
+   <widget class="QPushButton" name="pushButton_priority">
+    <property name="geometry">
+     <rect>
+      <x>240</x>
+      <y>30</y>
+      <width>81</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Set priority</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_suspend">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>30</y>
+      <width>81</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Suspend</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_affinity">
+    <property name="geometry">
+     <rect>
+      <x>440</x>
+      <y>30</y>
+      <width>171</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Set affinity</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_terminate">
+    <property name="geometry">
+     <rect>
+      <x>640</x>
+      <y>30</y>
+      <width>171</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Terminate</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_create_resmon">
+    <property name="geometry">
+     <rect>
+      <x>440</x>
+      <y>140</y>
+      <width>171</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Create Visual Studio process</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_create_sort">
+    <property name="geometry">
+     <rect>
+      <x>640</x>
+      <y>140</y>
+      <width>171</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Create array sort process</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_create_tab">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>140</y>
+      <width>171</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Create tabulation process</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_create_notion">
+    <property name="geometry">
+     <rect>
+      <x>240</x>
+      <y>140</y>
+      <width>171</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Create cmd process</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="comboBox">
+    <property name="geometry">
+     <rect>
+      <x>330</x>
+      <y>30</y>
+      <width>81</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>Idle</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Below normal</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Normal</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Above normal</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>High</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Realtime</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QPushButton" name="pushButton_refresh">
+    <property name="geometry">
+     <rect>
+      <x>840</x>
+      <y>30</y>
+      <width>121</width>
+      <height>191</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Refresh</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_continue">
+    <property name="geometry">
+     <rect>
+      <x>130</x>
+      <y>30</y>
+      <width>81</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Continue</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1000</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

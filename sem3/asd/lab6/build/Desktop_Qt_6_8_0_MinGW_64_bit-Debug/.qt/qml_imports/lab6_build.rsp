@@ -1,0 +1,9 @@
+-rootPath
+C:/Users/USER/source/repos/university/sem3/asd/lab6
+-cmake-output
+-output-file
+C:/Users/USER/source/repos/university/sem3/asd/lab6/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/qml_imports/lab6_build.cmake
+-importPath
+C:/Users/USER/source/repos/university/sem3/asd/lab6/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.8.0/mingw_64/qml

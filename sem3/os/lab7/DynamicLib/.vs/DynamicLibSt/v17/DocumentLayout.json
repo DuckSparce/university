@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\university\\sem3\\os\\lab7\\DynamicLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50F23359-D754-4D08-8C04-B662E4F549ED}|DynamicLib.vcxproj|C:\\Users\\USER\\source\\repos\\university\\sem3\\os\\lab7\\DynamicLib\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50F23359-D754-4D08-8C04-B662E4F549ED}|DynamicLib.vcxproj|solutionrelative:dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F23359-D754-4D08-8C04-B662E4F549ED}|DynamicLib.vcxproj|C:\\Users\\USER\\source\\repos\\university\\sem3\\os\\lab7\\DynamicLib\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50F23359-D754-4D08-8C04-B662E4F549ED}|DynamicLib.vcxproj|solutionrelative:pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F23359-D754-4D08-8C04-B662E4F549ED}|DynamicLib.vcxproj|C:\\Users\\USER\\source\\repos\\university\\sem3\\os\\lab7\\DynamicLib\\DynamicLibSt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50F23359-D754-4D08-8C04-B662E4F549ED}|DynamicLib.vcxproj|solutionrelative:DynamicLibSt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DynamicLibSt.h",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\university\\sem3\\os\\lab7\\DynamicLib\\DynamicLibSt.h",
+              "RelativeDocumentMoniker": "DynamicLibSt.h",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\university\\sem3\\os\\lab7\\DynamicLib\\DynamicLibSt.h",
+              "RelativeToolTip": "DynamicLibSt.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T18:52:01.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\university\\sem3\\os\\lab7\\DynamicLib\\pch.cpp",
+              "RelativeDocumentMoniker": "pch.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\university\\sem3\\os\\lab7\\DynamicLib\\pch.cpp",
+              "RelativeToolTip": "pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T18:51:16.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\university\\sem3\\os\\lab7\\DynamicLib\\dllmain.cpp",
+              "RelativeDocumentMoniker": "dllmain.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\university\\sem3\\os\\lab7\\DynamicLib\\dllmain.cpp",
+              "RelativeToolTip": "dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T18:48:46.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

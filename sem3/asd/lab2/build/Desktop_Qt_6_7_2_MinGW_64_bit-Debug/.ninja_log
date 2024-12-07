@@ -1,0 +1,11 @@
+# ninja log v5
+979	3855	7476007407353856	CMakeFiles/lab1.dir/main.cpp.obj	2bc2a5641cb1ee2a
+876	1021	7475829877851114	CMakeFiles/lab1.dir/sorting_algorithms.cpp.obj	525f7f29e6cdafbe
+13	221	7476527090049946	C:/Users/USER/source/repos/university/sem3/asd/lab1/lab1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/lab1_autogen/mocs_compilation.cpp	10c583dbe6c4cf96
+971	3797	7476007406793848	CMakeFiles/lab1.dir/lab1_autogen/mocs_compilation.cpp.obj	9a0e03e8f5bb774d
+13	221	7476527090049946	C:/Users/USER/source/repos/university/sem3/asd/lab1/lab1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/lab1_autogen/timestamp	10c583dbe6c4cf96
+338	3571	7476137031180895	CMakeFiles/lab1.dir/algorithms.cpp.obj	2c3f038102e2b76c
+13	221	7476527090049946	lab1_autogen/mocs_compilation.cpp	10c583dbe6c4cf96
+3836	4504	7476527136073822	lab1.exe	6059605aa101904
+234	3836	7476527129462067	CMakeFiles/lab1.dir/mainwindow.cpp.obj	401892bbe2276d8a
+13	221	7476527090049946	lab1_autogen/timestamp	10c583dbe6c4cf96

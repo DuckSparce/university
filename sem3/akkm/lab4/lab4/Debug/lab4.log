@@ -1,0 +1,3 @@
+﻿  Assembling Source.asm...
+Source.asm(4): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  lab4.vcxproj -> C:\Users\USER\source\repos\university\sem3\akkm\lab4\Debug\lab4.exe

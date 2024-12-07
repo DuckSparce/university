@@ -1,0 +1,12 @@
+# ninja log v5
+7	1884	7521124295838154	BoxConstructor_autogen/timestamp	f266a37c09c8d986
+7	1884	7521124295838154	BoxConstructor_autogen/mocs_compilation.cpp	f266a37c09c8d986
+7	1884	7521124295838154	C:/Users/USER/source/repos/university/sem3/oop/coursework/BoxConstructor/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Release/BoxConstructor_autogen/timestamp	f266a37c09c8d986
+7	1884	7521124295838154	C:/Users/USER/source/repos/university/sem3/oop/coursework/BoxConstructor/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Release/BoxConstructor_autogen/mocs_compilation.cpp	f266a37c09c8d986
+1927	2231	7521124300929896	CMakeFiles/BoxConstructor.dir/app-icon.rc.obj	e402397d156ad6d7
+1910	7727	7521124355582597	CMakeFiles/BoxConstructor.dir/main.cpp.obj	be1a3860b7a1c238
+1894	7744	7521124355872538	CMakeFiles/BoxConstructor.dir/BoxConstructor_autogen/mocs_compilation.cpp.obj	28da844009379cc8
+1977	8123	7521124359647648	CMakeFiles/BoxConstructor.dir/dialog.cpp.obj	e1cd64a0130ef44
+1991	8195	7521124360359037	CMakeFiles/BoxConstructor.dir/order.cpp.obj	9b13700b9d742ac5
+1918	9829	7521124376664484	CMakeFiles/BoxConstructor.dir/mainwindow.cpp.obj	bae894d1aebe8bed
+9830	10155	7521124379945221	BoxConstructor.exe	88fea0614a1f0f18
